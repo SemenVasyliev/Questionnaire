@@ -1,0 +1,17 @@
+C:\Users\semen\Source\Repos\project1_theme3\Oprosnik\bin\Debug\net6.0\Oprosnik.exe
+C:\Users\semen\Source\Repos\project1_theme3\Oprosnik\bin\Debug\net6.0\Oprosnik.deps.json
+C:\Users\semen\Source\Repos\project1_theme3\Oprosnik\bin\Debug\net6.0\Oprosnik.runtimeconfig.json
+C:\Users\semen\Source\Repos\project1_theme3\Oprosnik\bin\Debug\net6.0\Oprosnik.dll
+C:\Users\semen\Source\Repos\project1_theme3\Oprosnik\bin\Debug\net6.0\ref\Oprosnik.dll
+C:\Users\semen\Source\Repos\project1_theme3\Oprosnik\bin\Debug\net6.0\Oprosnik.pdb
+C:\Users\semen\Source\Repos\project1_theme3\Oprosnik\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\semen\Source\Repos\project1_theme3\Oprosnik\obj\Debug\net6.0\Oprosnik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semen\Source\Repos\project1_theme3\Oprosnik\obj\Debug\net6.0\Oprosnik.AssemblyInfoInputs.cache
+C:\Users\semen\Source\Repos\project1_theme3\Oprosnik\obj\Debug\net6.0\Oprosnik.AssemblyInfo.cs
+C:\Users\semen\Source\Repos\project1_theme3\Oprosnik\obj\Debug\net6.0\Oprosnik.csproj.CoreCompileInputs.cache
+C:\Users\semen\Source\Repos\project1_theme3\Oprosnik\obj\Debug\net6.0\Oprosnik.csproj.CopyComplete
+C:\Users\semen\Source\Repos\project1_theme3\Oprosnik\obj\Debug\net6.0\Oprosnik.dll
+C:\Users\semen\Source\Repos\project1_theme3\Oprosnik\obj\Debug\net6.0\ref\Oprosnik.dll
+C:\Users\semen\Source\Repos\project1_theme3\Oprosnik\obj\Debug\net6.0\Oprosnik.pdb
+C:\Users\semen\Source\Repos\project1_theme3\Oprosnik\obj\Debug\net6.0\Oprosnik.genruntimeconfig.cache
+C:\Users\semen\Source\Repos\project1_theme3\Oprosnik\obj\Debug\net6.0\Oprosnik.csproj.AssemblyReference.cache

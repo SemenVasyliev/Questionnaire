@@ -1,0 +1,24 @@
+[
+  {
+    "Id": 0,
+    "Name": "Простой опрос",
+    "Question": "Знаешь?",
+    "AnswersInfo": [
+      {
+        "AnswerNumber": 1,
+        "Answer": "Да",
+        "AnswerCount": 0
+      },
+      {
+        "AnswerNumber": 2,
+        "Answer": "Нет",
+        "AnswerCount": 1
+      },
+      {
+        "AnswerNumber": 3,
+        "Answer": "Не знаю",
+        "AnswerCount": 1
+      }
+    ]
+  }
+]
